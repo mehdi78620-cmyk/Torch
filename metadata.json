@@ -1,0 +1,6 @@
+{
+  "name": "Shake Flashlight",
+  "description": "Turn your phone's flashlight on and off with a simple shake. Features customizable sensitivity, visual G-force meter, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
